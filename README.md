@@ -1,2 +1,2 @@
-# STELLAR-STAGE-8
-project 88
+# spectagram-stage-8
+project solution for c88
